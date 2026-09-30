@@ -1,0 +1,7 @@
+{
+  "name": "VibePost AI - Social Media Content Companion",
+  "description": "Transform raw thoughts into viral LinkedIn posts, Twitter threads, and Instagram captions with Gen-Z buddy insights and smart export tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
